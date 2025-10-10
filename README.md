@@ -1,4 +1,4 @@
-# how-to-perform-pull-to-refresh-programmatically-in-flutter-datatable-sfdatagrid
+# How to perform pull to refresh programmatically in Flutter datatable
  
 This repository contains a sample project that demonstrates how to perform pull to refresh programmatically in Syncfusion® Flutter DataGrid (SfDataGrid).
 
